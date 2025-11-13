@@ -1,0 +1,8 @@
+{
+  "search_urls": ["https://www.facebook.com/search/pages/?q=example"],
+  "output_format": "json",
+  "proxy": {
+    "enabled": true,
+    "apify_proxy": "your_apify_proxy_key"
+  }
+}
